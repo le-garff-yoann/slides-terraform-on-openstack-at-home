@@ -192,6 +192,7 @@ Notes:
 - [Documentation OpenStack](https://docs.openstack.org/train/).
 - [OpenStack Networking](https://www.slideshare.net/janghoonsim/open-stack-networking-juno-l3-ha-dvr).
 - [Kolla-Ansible](https://github.com/openstack/kolla-ansible).
+- [Kolla-Ansible/globals.yml - toutes les options](https://github.com/openstack/kolla-ansible/blob/master/ansible/group_vars/all.yml).
 - [le-garff-yoann/vagrant-kolla-aio](https://github.com/le-garff-yoann/vagrant-kolla-aio).
 - [le-garff-yoann/terraform-openstack-examples](https://github.com/le-garff-yoann/terraform-openstack-examples).
 - [Liste des providers Terraform](https://www.terraform.io/docs/providers).
